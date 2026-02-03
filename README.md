@@ -63,8 +63,8 @@
 ## 11. What atmospheric process requires stable conditions?
 - Foehn
 - Thermal lift
-- Formation of clouds
-- ***Precipitation*** (most likely "no" or requires special conditions)
+- ***Formation of clouds***
+- Precipitation (most likely "no" or requires special conditions)
 
 ## 12. Which indication identifies an unstable air mass?
 - Very light precipitation
@@ -411,8 +411,8 @@
 ## 69. Which answer defines the term saturated adiabatic process?
 - Descending dry air reaches condensation level and forms clouds
 - Water vapour condenses because of descending moist air masses
-- Saturated air continuously ascends and cools by less than 1 K per 100 m
-- ***Air saturated with moisture ascends and cools by more than 1 K per 100 m*** (actually less, but option indicates understanding)
+- ***Saturated air continuously ascends and cools by less than 1 K per 100 m***
+- Air saturated with moisture ascends and cools by more than 1 K per 100 m (actually less, but option indicates understanding)
 
 ## 70. Clouds are basically distinguished by what types?
 - Thunderstorm and shower clouds
@@ -627,8 +627,8 @@
 ## 105. An observer reports the first appearance of As and Cs clouds at the front of an approaching clouds coverage. How far away is the corresponding warm front?
 - 40-60 km
 - 60-80 km
-- ***100-120 km*** (or 400-800 km)
-- 400-800 km
+- 100-120 km (or 400-800 km)
+- ***400-800*** km
 
 ## 106. Which kind of dangers have to be expected when flying VFR through a warm front?
 - No explicit dangers
