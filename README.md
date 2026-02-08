@@ -46,7 +46,7 @@
 - Ground cooling during the night
 
 ### 16. What is the ISA standard pressure at FL 180 (5500 m)?
-- 300 hPa
+- 500 hPa
 
 ### 17. The QNH is used in aviation...
 - For cross-country flights below transition altitude
