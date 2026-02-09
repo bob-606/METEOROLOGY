@@ -1,3 +1,122 @@
+# PPL-Trnr
+
+## 1. What type of cloud indicates thermal updrafts?
+- a. Cumulus
+- b. Lenticularis
+- c. Cirrus
+- d. Stratus
+- ***a. Cumulus***
+
+## 2. At what height is the base of a cumulus cloud formed?
+- a. The height at which the relative humidity of the rising air reaches 0 %
+- ***b. The height at which the temperature of the rising air reaches its dew point***
+- c. The height at which the rising air reaches the top of an inversion layer
+- d. The height at which the temperature of the rising air reaches the environmental dew point
+
+## 3. The gas mixture "air" is composed of what components?
+- a. Oxygen 21 %, water vapour 78 %, noble gases / carbon dioxide 1 %
+- b. Oxygen 78 %, water vapour 21 %, Nitrogen 1 %
+- ***c. Oxygen 21 %, Nitrogen 78 %, noble gases / Carbon Dioxide 1 %***
+- d. Nitrogen 21 %, Oxygen 78 %, noble gases / Carbon Dioxide 1 %
+
+## 4. What is the gas composition of "air"?
+- a. Oxygen 21 %, Water vapour 78 %, Noble gases / carbon dioxide 1 %
+- b. Nitrogen 21 %, Oxygen 78 %, Noble gases / carbon dioxide 1 %
+- ***c. Oxygen 21 %, Nitrogen 78 %, Noble gases / carbon dioxide 1 %***
+- d. Oxygen 78 %, Water vapour 21 %, Nitrogen 1 %
+
+## 5. Which process may result in an inversion layer at about 5000 ft (1500 m) height?
+- a. Ground cooling by radiation during the night
+- b. Intensive sunlight insolation during a warm summer day
+- ***c. Widespread descending air within a high pressure area***
+- d. Advection of cool air in the upper troposphere
+
+## 6. What are the air masses that Central Europe is mainly influenced by?
+- a. Arctic and polar cold air
+- b. Tropical and arctic cold air
+- ***c. Polar cold air and tropical warm air***
+- d. Equatorial and tropical warm air
+
+## 7. Clouds are basically distinguished by what types?
+- a. Thunderstorm and shower clouds
+- ***b. Cumulus and stratiform clouds***
+- c. Stratiform and ice clouds
+- d. Layered and lifted clouds
+
+## 8. What factors may indicate a tendency to fog formation?
+- a. Strong winds, decreasing temperature
+- ***b. Low spread, decreasing temperature***
+- c. Low pressure, increasing temperature
+- d. Low spread, increasing temperature
+
+## 9. What is meant by "isothermal layer"?
+- a. A boundary area between two other layers within the atmosphere
+- ***b. An atmospheric layer with constant temperature with increasing height***
+- c. An atmospheric layer where temperature increases with increasing height
+- d. An atmospheric layer where temperature decreases with increasing height
+
+## 10. Which of the following conditions are most favourable for ice accretion?
+- a. Temperatures below 0° C, strong wind, sky clear of clouds
+- b. Temperatures between +10° C and -30° C, presence of hail (clouds)
+- ***c. Temperatures between 0° C and -12° C, presence of supercooled water droplets (clouds)***
+- d. Temperatures between -20° C and -40° C, presence of ice crystals (Ci clouds)
+
+## 11. What clouds and weather may result from an humid and instable air mass, that is pushed against a chain of mountains by the predominant wind and forced to rise?
+- a. Thin Altostratus and Cirrostratus clouds with light and steady precipitation.
+- ***b. Embedded CB with thunderstorms and showers of hail and/or rain.***
+- c. Smooth, unstructured NS cloud with light drizzle or snow (during winter).
+- d. Overcast low stratus (high fog) with no precipitation.
+
+## 12. What is the ISA standard pressure at FL 180 (5500 m)?
+- a. 300 hPa
+- b. 1013.25 hPa
+- ***c. 500 hPa***
+- d. 250 hPa
+
+## 13. Measured pressure distribution in MSL and corresponding frontal systems are displayed by the...
+- a. Significant Weather Chart (SWC).
+- b. Hypsometric chart.
+- c. Prognostic chart.
+- ***d. Surface weather chart.***
+
+## 14. What information is NOT found on Low-Level Significant Weather Charts (LLSWC)?
+- a. Information about icing conditions
+- b. Front lines and frontal displacements
+- ***c. Radar echos of precipitation***
+- d. Information about turbulence areas
+
+## 15. How does inflowing cold air affect the shape and vertical distance between pressure layers?
+- a. Increasing vertical distance, raise in height (high pressure)
+- ***b. Decrease in vertical distance, lowering in height (low pressure)***
+- c. Decreasing vertical distance, raise in height (high pressure)
+- d. Increase in vertical distance, lowering in height (low pressure)
+
+## 16. What is the ISA standard pressure at FL 180 (5500 m)?
+- a. 300 hPa
+- b. 1013.25 hPa
+- c. 250 hPa
+- ***d. 500 hPa***
+
+## 17. What condition may prevent the formation of "radiation fog"?
+- a. Low spread
+- b. Calm wind
+- ***c. Overcast cloud cover***
+- d. Clear night, no clouds
+
+## 18. Prediction from numerical weather forecast models can be used to...
+- a. Check actual cloud and visibility situation at destination airport.
+- b. Improve the quality of HRV and RGB satellite images.
+- ***c. Visualize flight hazards along the planned route.***
+- d. A precise prediction of cloud and visibility situation at an airport up to 14 days.
+
+## 19. What level of turbulence has always to be expected, regardless of mentioning in weather forecasts?
+- a. Heavy turbulence below cumulus clouds
+- b. Moderate and severe turbulence
+- c. Moderate clear air turbulence (CAT)
+- ***d. Light turbulence ("thermal turbulence")***
+
+
+
 # Meteorology (TRAM)
 ---
 
