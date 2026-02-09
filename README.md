@@ -1,11 +1,10 @@
 # PPL-Trnr
 
 ## 1. What type of cloud indicates thermal updrafts?
-- a. Cumulus
+- ***a. Cumulus***
 - b. Lenticularis
 - c. Cirrus
 - d. Stratus
-- ***a. Cumulus***
 
 ## 2. At what height is the base of a cumulus cloud formed?
 - a. The height at which the relative humidity of the rising air reaches 0 %
