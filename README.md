@@ -114,7 +114,125 @@
 - c. Moderate clear air turbulence (CAT)
 - ***d. Light turbulence ("thermal turbulence")***
 
+## 20. The temperature lapse rate with increasing height within the troposphere according ISA is...
 
+- a. 0.6° C / 100 m.
+- b. 3° C / 100 m.
+- c. 1° C / 100 m.
+- d. ***0.65° C / 100 m.***
+
+## 21. The symbol labeled (3) as shown in the picture is a / an...
+
+See figure (MET-005)
+
+![Weather diagram showing cold front, warm front, and occlusion symbols]
+
+- a. front aloft.
+- b. ***occlusion.***
+- c. cold front.
+- d. warm front.
+
+## 22. What is the mass of a "cube of air" with the edges 1 m long, at MSL according ISA?
+
+- a. ***1.225 kg***
+- b. 12.25 kg
+- c. 0.01225 kg
+- d. 0.1225 kg
+
+## 23. Hot air over the tropics creates a band of low pressure at the surface known as....
+
+- a. ***the equitorial trough***
+- b. a mid-latitude cell
+- c. the equitorial high
+- d. a polar cell
+
+## 24. What clouds and weather can typically be observed during the passage of a cold front?
+
+- a. In coastal areas during daytime wind from the coast and forming of cumulus clouds, dissipation of clouds during evening and night
+- b. ***Strongly developed cumulus clouds (Cb) with showers of rain and thunderstorms, gusting wind followed by cumulus clouds with isolated showers of rain***
+- c. Cirrus, thickening altostratus and altocumulus clouds, lowering cloud base with rain, nimbostratus
+- d. Wind becoming calm, dissipation of clouds and warming during summer; formation of extended high fog layers during winter
+
+## 25. As taken from ground-based weather radar images with "orange" or "red" areas, what type of precipitation can be expected?
+
+- a. Fog or freezing fog
+- b. ***Showers of rain, hail or soft hail (graupel)***
+- c. Steady light rain
+- d. Drizzle or ice crystals
+
+## 26. What type of fog emerges if water evaporates from a warm and humid surface into cold air and condensates again shortly thereafter?
+
+- a. ***Steaming fog***
+- b. Radiation fog
+- c. Hill fog
+- d. Advection fog
+
+## 27. Light turbulence always has to be expected....
+
+- a. ***below cumulus clouds due to thermal convection.***
+- b. below stratiform clouds in medium layers.
+- c. above cumulus clouds due to thermal convection.
+- d. when entering inversions.
+
+## 28. What conditions are likely for the formation of thunderstorms?
+
+- a. Absolutely stable atmosphere, high temperature and high humidity
+- b. Conditionally unstable atmosphere, low temperature and low humidity
+- c. Absolutely stable atmosphere, high temperature and low humidity
+- d. ***Conditionally unstable atmosphere, high temperature and high humidity***
+
+## 29. What weather phenomenon designated by "2" has to be expected on the lee side during the illustrated conditions?
+
+See figure (MET-001)
+
+![Diagram showing airflow over mountain with numbered regions]
+
+- a. Cumulonimbus
+- b. Altocumulus Castellanus
+- c. Nimbostratus
+- d. ***Altocumulus lenticularis***
+
+## 30. Winds blowing uphill are defined as...
+
+- a. katabatic winds.
+- b. subsident winds.
+- c. ***anabatic winds.***
+- d. convergent winds.
+
+## 31. The cloud types shown by HRV (High Resolution Visual) satellite images as "uniform white, covering larger areas" can be intepreted as:
+
+- a. ***Stratus (St)***
+- b. Cirrus (Ci)
+- c. Cumulonimbus (Cb)
+- d. Cumulus (Cu)
+
+## 32. What temperatures are most dangerous with respect to airframe icing?
+
+- a. -20° to -40° C
+- b. ***0° to -12° C***
+- c. +20° to -5° C
+- d. +5° to -10° C
+
+## 33. The "spread" is defined as...
+
+- a. relation of actual to maximum possible humidity of air.
+- b. ***difference between actual temperature and dew point.***
+- c. maximum amount of water vapour that can be contained in air.
+- d. difference between dew point and condensation point.
+
+## 34. What wind is reported as 225/15?
+
+- a. south-west wind with 15 km/h
+- b. north-east wind with 15 kt
+- c. north-east wind with 15 km/h
+- d. ***south-west wind with 15 kt***
+
+## 35. Weather and operational information about the destination aerodrome can be obtained during the flight by...
+
+- a. VOLMET.
+- b. SIGMET.
+- c. PIREP.
+- d. ***ATIS.***
 
 
 
