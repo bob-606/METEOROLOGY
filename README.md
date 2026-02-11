@@ -234,6 +234,288 @@ See figure (MET-001)
 - c. PIREP.
 - d. ***ATIS.***
 
+## 36. What type of fog emerges if water evaporates from a warm and humid surface into cold air and condensates again shortly thereafter?
+
+- a. Hill fog
+- b. ***Steaming fog***
+- c. Radiation fog
+- d. Advection fog
+
+## 37. The color sequence used in weather radar images to indicate precipitation intensity from low to high is typically:
+
+- a. Green - yellow - blue - red
+- b. Blue - green - orange - yellow
+- c. ***Green - yellow - orange - red***
+- d. Red - orange - yellow - green
+
+## 38. What change of wind direction can be expected during the passage of a polar front low in Central Europe?
+
+- a. Backing wind during passage of the warm front, veering wind during passage of the cold front
+- b. Veering wind during passage of the warm front, backing wind during passage of the cold front
+- c. ***Veering wind during passage of the warm front, veering wind during passage of the cold front***
+- d. Backing wind during passage of the warm front, backing wind during passage of the cold front
+
+## 39. Given the following information, what is the true altitude? (rounded to the nearest 50 ft)
+
+QNH: 983 hPa
+Altitude: FL 85
+Outside Air Temperature: ISA - 10°
+
+- a. 7600 ft
+- b. ***7300 ft***
+- c. 9400 ft
+- d. 7900 ft
+
+## 40. How does air temperature change in ISA from MSL to approx. 10,000 m height?
+
+- a. from -15° to 50°C
+- b. from +20° to -40°C
+- c. ***from +15° to -50°C***
+- d. from +30° to -40°C
+
+## 41. Ground-based weather radar allows to display...
+
+- a. forecast of location and intensity of clouds and precipitation.
+- b. vertical distribution of clouds with base and top levels.
+- c. temperature distribution at different altitudes.
+- d. ***the current location and intensity of precipitation areas.***
+
+## 42. Hot air over the tropics creates a band of low pressure at the surface known as....
+
+- a. a mid-latitude cell
+- b. a polar cell
+- c. ***the equitorial trough***
+- d. the equitorial high
+
+## 43. Heavy downdrafts and strong wind shear close to the ground can be expected...
+
+- a. during warm summer days with high, flatted Cu clouds.
+- b. during cold, clear nights with the formation of radiation fog.
+- c. ***near the rainfall areas of heavy showers or thunderstorms.***
+- d. during approach to an airfield at the coast with a strong sea breeze.
+
+## 44. What weather phenomena have to be expected around an upper-level trough?
+
+- a. Calm weather, formation of lifted fog layers
+- b. ***Development of showers and thunderstorms (Cb)***
+- c. Calm wind, forming of shallow cumulus clouds
+- d. Formation of high stratus clouds, ground-covering cloud bases
+
+## 45. Which of the stated surfaces will reduce the wind speed most due to ground friction?
+
+- a. Flat land, deserted land, no vegetation
+- b. ***Mountainous areas, vegetation cover***
+- c. Flat land, lots of vegetation cover
+- d. Oceanic areas
+
+## 46. Given the following information, what is the true altitude? (rounded to the nearest 50 ft)
+
+QNH: 983 hPa
+Altitude: FL 85
+Outside Air Temperature: ISA - 10°
+
+- a. 9400 ft
+- b. 7600 ft
+- c. 7900 ft
+- d. ***7300 ft***
+
+## 47. With regard to global circulation within the atmosphere, where does polar cold air meets subtropical warm air?
+
+- a. At the equator
+- b. At the subtropical high pressure belt
+- c. ***At the polar front***
+- d. At the geographic poles
+
+## 48. The pressure at MSL in ISA conditions is...
+
+- a. 1123 hPa.
+- b. ***1013.25 hPa.***
+- c. 15 hPa.
+- d. 113.25 hPa.
+
+## 49. What cloud type does the picture show?
+
+See figure (MET-003).
+
+- a. Nimbostratus
+- b. ***Altocumulus***
+- c. Cumulus
+- d. Cirrus
+
+## 50. Information about pressure patterns and frontal situation can be found in which chart?
+
+- a. ***Surface weather chart***
+- b. Significant Weather Chart (SWC)
+- c. Wind chart
+- d. Hypsometric chart
+
+## 51. What is referred to as mountain wind?
+
+- a. Wind blowing uphill from the valley during daytime.
+- b. Wind blowing down the mountain side during daytime.
+- c. Wind blowing uphill from the valley during the night.
+- d. ***Wind blowing down the mountain side during the night***
+
+## 52. The color sequence used in weather radar images to indicate precipitation intensity from low to high is typically:
+
+- a. Red - orange - yellow - green
+- b. Blue - green - orange - yellow
+- c. ***Green - yellow - orange - red***
+- d. Green - yellow - blue - red
+
+## 53. A band of low pressure is usually present:
+
+- a. At the north/south pole
+- b. ***Along the equator***
+- c. At mid-latitudes around 50-70°N/S
+- d. Over oceanic areas at latitues around 30°N/S
+
+## 54. What pressure pattern can be observed during the passage of a polar front low?
+
+- a. Rising pressure in front of the warm front, rising pressure within the warm sector, falling pressure behind the cold front
+- b. ***Falling pressure in front of the warm front, constant pressure within the warm sector, rising pressure behind the cold front***
+- c. Falling pressure in front of the warm front, constant pressure within the warm sector, falling pressure behind the cold front
+- d. Rising pressure in front of the warm front, constant pressure within the warm sector, rising pressure behind the cold front
+
+## 55. Which of the following situation is required for the formation of fog?
+
+- a. The spread increases significantly
+- b. The relative humidity reduces to 0 %
+- c. ***Air cools below its dew point***
+- d. Formation of overcast cloud cover in medium height during the night
+
+## 56. Numerical forecasts for flight planning purposes provide information about...
+
+- a. actual location and intensity of precipitation.
+- b. visual and infra-red satellite images.
+- c. precise weather forecast up to 28 days.
+- d. ***upper wind and temperature, humidity.***
+
+## 57. What pressure pattern can be observed during the passage of a polar front low?
+
+- a. ***Falling pressure in front of the warm front, constant pressure within the warm sector, rising pressure behind the cold front***
+- b. Falling pressure in front of the warm front, constant pressure within the warm sector, falling pressure behind the cold front
+- c. Rising pressure in front of the warm front, constant pressure within the warm sector, rising pressure behind the cold front
+- d. Rising pressure in front of the warm front, rising pressure within the warm sector, falling pressure behind the cold front
+
+## 58. What weather conditions may be expected in the area of an occlusion?
+
+- a. Scattered clouds with isolated showers and thunderstorms
+- b. ***St or Ns with high vertical extension, embedded showers and thunderstorms***
+- c. Dissipating clouds by widerspread descending air
+- d. Medium cloud layers and Ci, no precipitation
+
+## 59. What chart shows areas of precipitation?
+
+- a. Wind chart
+- b. ***Radar picture***
+- c. Satellite picture
+- d. GAFOR
+
+## 60. What factor may affect the top of cumulus clouds?
+
+- a. The spread
+- b. The absolute humidity
+- c. Relative humidity
+- d. ***The presence of an inversion layer***
+
+## 61. The term "tropopause" is defined as...
+
+- a. the boundary area between the mesosphere and the stratosphere.
+- b. ***the boundary area between the troposphere and the stratosphere.***
+- c. the layer above the troposphere showing an increasing temperature.
+- d. the height above which the temperature starts to decrease.
+
+## 62. Measured pressure distribution in MSL and corresponding frontal systems are displayed by the...
+
+- a. ***surface weather chart.***
+- b. Significant Weather Chart (SWC).
+- c. prognostic chart.
+- d. hypsometric chart.
+
+## 63. Heavy downdrafts and strong wind shear close to the ground can be expected...
+
+- a. during warm summer days with high, flatted Cu clouds.
+- b. during cold, clear nights with the formation of radiation fog.
+- c. ***near the rainfall areas of heavy showers or thunderstorms.***
+- d. during approach to an airfield at the coast with a strong sea breeze.
+
+## 64. What weather development will result from convergence at ground level?
+
+- a. Ascending air and cloud dissipation
+- b. ***Ascending air and cloud formation***
+- c. Descending air and cloud formation
+- d. Descending air and cloud dissipation
+
+## 65. Which type of cloud is associated with prolonged rain?
+
+- a. Cirrostratus
+- b. Altocumulus
+- c. ***Nimbostratus***
+- d. Cumulonimbus
+
+## 66. What factors are required for the formation of precipitation in clouds?
+
+- a. ***Moderate to strong updrafts***
+- b. High humidity and high temperatures
+- c. The presence of an inversion layer
+- d. Calm winds and intensive sunlight insolation
+
+## 67. What factor may affect the top of cumulus clouds?
+
+- a. The spread
+- b. The absolute humidity
+- c. Relative humidity
+- d. ***The presence of an inversion layer***
+
+## 68. The RGB (Red-Green-Blue) satellite images show...
+
+- a. top level of clouds by temperature measurement.
+- b. location and intensity of precipitation areas.
+- c. ***cloud areas by combining images of different visual channels.***
+- d. forecast development of pressure patterns.
+
+## 69. In a METAR, "(moderate) showers of rain" are designated by the identifier...
+
+- a. TS.
+- b. ***SHRA.***
+- c. +RA.
+- d. +TSRA.
+
+## 70. What weather conditions may be expected during conditionally unstable conditions?
+
+- a. Sky clear of clouds, sunshine, low winds
+- b. ***Towering cumulus, isolated showers of rain or thunderstorms***
+- c. Shallow cumulus clouds with base at medium levels
+- d. Layered clouds up to high levels, prolonged rain or snow
+
+## 71. Clouds in high layers are referred to as...
+
+- a. Strato-.
+- b. ***Cirro-.***
+- c. Alto-.
+- d. Nimbo-.
+
+## 72. What situation is referred to as "shielding"?
+
+- a. ***High or mid-level cloud layers, impairing thermal activity***
+- b. Coverage of Cumulus clouds, stated as part of eights of the sky
+- c. Ns clouds, covering the windward side of a mountain range
+- d. Anvil-like structure at the upper levels of a thunderstorm cloud
+
+## 73. Which reports give most precise information about current flight hazards, like clear air turbulence (CAT) or the frequency of thunderstorms?
+
+- a. Surface weather chart
+- b. Wind chart
+- c. ***Significant Weather Chart (SWC)***
+- d. Hypsometric chart
+
+## 74. The movement of air flowing apart is called...
+
+- a. convergence.
+- b. ***divergence.***
+- c. subsidence.
+- d. concordence.
 
 
 ---
