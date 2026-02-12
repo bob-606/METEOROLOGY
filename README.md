@@ -517,6 +517,221 @@ See figure (MET-003).
 - c. subsidence.
 - d. concordence.
 
+## 75. What weather phenomena have to be expected around an upper-level trough?
+
+- a. ***Development of showers and thunderstorms (Cb)***
+- b. Calm wind, forming of shallow cumulus clouds
+- c. Formation of high stratus clouds, ground-covering cloud bases
+- d. Calm weather, formation of lifted fog layers
+
+## 76. What wind conditions can be expected in areas showing large distances between isobars?
+
+- a. Strong prevailing westerly winds with rapid veering
+- b. ***Variable winds, formation of local wind systems***
+- c. Strong prevailing easterly winds with rapid backing
+- d. Formation of local wind systems with strong prevailing westerly winds
+
+## 77. What frontal line divides subtropical air from polar cold air, in particular across Central Europe?
+
+- a. ***Polar front***
+- b. Cold front
+- c. Occlusion
+- d. Warm front
+
+## 78. What is referred to as mountain wind?
+
+- a. Wind blowing uphill from the valley during the night.
+- b. Wind blowing uphill from the valley during daytime.
+- c. ***Wind blowing down the mountain side during the night***
+- d. Wind blowing down the mountain side during daytime.
+
+## 79. When air masses meet each other head on, how is this referred to and what air movements will follow?
+
+- a. Convergence resulting in sinking air
+- b. Divergence resulting in sinking air
+- c. Divergence resulting in air being lifted
+- d. ***Convergence resulting in air being lifted***
+
+## 80. The cloud types shown by HRV (High Resolution Visual) satellite images as "compact, single white spots" can be intepreted as:
+
+- a. Stratus (St)
+- b. Cirrus (Ci)
+- c. ***Convective Clouds (Cu, Cb)***
+- d. Nimbostratus (Ns)
+
+## 81. What has to be considered when taking off in a ground inversion?
+
+- a. ***During climb, a sudden decrease in speed and climb performance has to be expected***
+- b. Climb should be performed with the lowest possible speed and maximum power
+- c. Due to low temperatures close to the ground, icing has to be expected
+- d. During the climb, a sudden increase in speed and climb performance has to be expected
+
+## 82. The barometric altimeter with QNH setting indicates...
+
+- a. true altitude above MSL.
+- b. height above the pressure level at airfield elevation.
+- c. ***altitude above MSL.***
+- d. height above standard pressure 1013.25 hPa.
+
+## 83. What weather conditions can be expected in high pressure areas during summer?
+
+- a. Calm winds and widespread areas with high fog
+- b. ***Calm weather and cloud dissipation, few high Cu***
+- c. Squall lines and thunderstorms
+- d. Changing weather with passing of frontal lines
+
+## 84. What danger is most imminent during an approach to an airfield situated in a valley, with strong wind aloft blowing perpendicular to the mountain ridge?
+
+- a. ***Wind shear during descent, wind direction may change by 180°***
+- b. Formation of medium to heavy clear ice on all aircraft surfaces
+- c. Reduced visibilty, maybe loss of sight to the airfield during final approach
+- d. Heavy downdrafts within rainfall areas below thunderstorm clouds
+
+## 85. What frontal line divides subtropical air from polar cold air, in particular across Central Europe?
+
+- a. Occlusion
+- b. Warm front
+- c. ***Polar front***
+- d. Cold front
+
+## 86. The saturated adiabatic lapse rate is...
+
+- a. proportional to the dry adiabatic lapse rate.
+- b. ***lower than the dry adiabatic lapse rate.***
+- c. equal to the dry adiabatic lapse rate.
+- d. higher than the dry adiabatic lapse rate.
+
+## 87. Which weather chart shows the actual air pressure as in MSL along with pressure centers and fronts?
+
+- a. Wind chart
+- b. ***Surface weather chart***
+- c. Hypsometric chart
+- d. Prognostic chart
+
+## 88. The symbol labeled (2) as shown in the picture is a / an...
+
+See figure (MET-005)
+
+- a. occlusion.
+- b. ***warm front.***
+- c. front aloft.
+- d. cold front.
+
+## 89. Which unit is used for temperatures given by meteorological aviation services in Europe and Africa?
+
+- a. ***Degrees Centigrade (° C)***
+- b. Kelvin
+- c. Degrees Fahrenheit
+- d. Gpdam
+
+## 90. What type of fog emerges if humid and almost saturated air, is forced to rise upslope of hills or shallow mountains by the prevailling wind?
+
+- a. ***Orographic fog***
+- b. Advection fog
+- c. Steaming fog
+- d. Radiation fog
+
+## 91. With regard to thunderstorms, strong up- and downdrafts appear during the...
+
+- a. thunderstorm stage.
+- b. initial stage.
+- c. dissipating stage.
+- d. ***mature stage.***
+
+## 92. What can be expected for the prevailling wind with isobars on a surface weather chart showing large distances?
+
+- a. Strong pressure gradients resulting in low prevailling wind
+- b. ***Low pressure gradients resulting in low prevailling wind***
+- c. Low pressure gradients resulting in strong prevailling wind
+- d. Strong pressure gradients resulting in strong prevailling wind
+
+## 93. With regard to thunderstorms, strong up- and downdrafts appear during the...
+
+- a. initial stage.
+- b. thunderstorm stage.
+- c. dissipating stage.
+- d. ***mature stage.***
+
+## 94. "Foehn" conditions usually develop with...
+
+- a. stability, high pressure area with calm wind.
+- b. instability, widespread air blown against a mountain ridge.
+- c. instability, high pressure area with calm wind.
+- d. ***stability, widespread air blown against a mountain ridge.***
+
+## 95. What conditions are favourable for the formation of thunderstorms?
+
+- a. Calm winds and cold air, overcast cloud cover with St or As.
+- b. Warm and dry air, strong inversion layer
+- c. Clear night over land, cold air and patches of fog
+- d. ***Warm humid air, conditionally unstable environmental lapse rate***
+
+## 96. What conditions are favourable for the formation of thunderstorms?
+
+- a. Calm winds and cold air, overcast cloud cover with St or As.
+- b. Warm and dry air, strong inversion layer
+- c. Clear night over land, cold air and patches of fog
+- d. ***Warm humid air, conditionally unstable environmental lapse rate***
+
+## 97. Hot air over the tropics creates a band of low pressure at the surface known as....
+
+- a. a polar cell
+- b. ***the equitorial trough***
+- c. the equitorial high
+- d. a mid-latitude cell
+
+## 98. Weather and operational information about the destination aerodrome can be obtained during the flight by...
+
+- a. ***ATIS.***
+- b. PIREP.
+- c. VOLMET.
+- d. SIGMET.
+
+## 99. What phenomenon is referred to as "blue thermals"?
+
+- a. ***Thermals without formation of Cu clouds***
+- b. Turbulence in the vicinity of Cumulonimbus clouds
+- c. Thermals with less than 4/8 Cu coverage
+- d. Descending air between Cumulus clouds
+
+## 100. The movement of air flowing together is called...
+
+- a. subsidence.
+- b. ***convergence.***
+- c. divergence.
+- d. soncordence.
+
+## 101. The formation of medium to large precipitation particles requires...
+
+- a. an inversion layer.
+- b. strong wind.
+- c. ***strong updrafts.***
+- d. a high cloud base.
+
+## 102. Cold air inflow in high tropospheric layers may result in...
+
+- a. frontal weather.
+- b. ***showers and thunderstorms.***
+- c. stabilisation and calm weather.
+- d. calm weather and cloud dissipation.
+
+## 103. A boundary between a cold polar air mass and a warm subtropical air mass showing no horizontal displacement is called...
+
+- a. warm front.
+- b. ***stationary front.***
+- c. cold front.
+- d. occluded front.
+
+## 104. What cloud type does the picture show?
+
+See figure (MET-002)
+
+- a. ***Cumulus***
+- b. Altus
+- c. Cirrus
+- d. Stratus
+
+
 
 ---
 
