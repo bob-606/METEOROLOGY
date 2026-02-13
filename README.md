@@ -731,6 +731,336 @@ See figure (MET-002)
 - c. Cirrus
 - d. Stratus
 
+## 105. What information can be obtained from satellite images?
+
+- a. ***Overview of cloud covers and front lines***
+- b. Temperature and dew point of environmental air
+- c. Flight visibility, ground visibility, and ground contact
+- d. Turbulence and icing
+
+## 106. Air descending behind a mountain range is defined as...
+
+- a. divergent wind.
+- b. convergent wind.
+- c. anabatic wind.
+- d. ***katabatic wind.***
+
+## 107. The height of the tropopause of the International Standard Atmosphere (ISA) is at...
+
+- a. 48,000 ft.
+- b. 5,500 ft.
+- c. ***36,000 ft.***
+- d. 11,000 ft.
+
+## 108. A sequence of satellite images can be used to show...
+
+- a. movement and variation of pressure patterns.
+- b. movement and variation of clear air turbulence.
+- c. ***position and movement of fronts and clouds.***
+- d. position and movement of precipitation areas.
+
+## 109. The advantage of RGB satellite images over HRV images is that...
+
+- a. by combining visual and IR channels, cloud images look the same day and night.
+- b. by combining visual and radar channels, cloud and precipitation types can be identified.
+- c. RGB images are calculations by meteorological models to forecast movements of fronts.
+- d. ***by combining different visual channels, cloud types and altitudes can be more easily distinguished.***
+
+## 110. Satellite images in the infra-red (IR) spectrum can be used to...
+
+- a. ***identify temperatures and thereby top level of clouds.***
+- b. identify temperatures and thereby cloud base coverage.
+- c. identify clear air turbulence areas and forecast.
+- d. identify precipitation areas and forecast.
+
+## 111. The pressure which is measured at a ground station and reduced to mean sea level (MSL) by means of the standard conditions (ISA) is called...
+
+- a. ***QNH.***
+- b. QFE.
+- c. QNE.
+- d. QFF.
+
+## 112. What cloud type can typically be observed across widespread high pressure areas during summer?
+
+- a. Overcast Ns clouds
+- b. Overcast low stratus
+- c. Squall lines and thunderstorms
+- d. ***Scattered Cu clouds***
+
+## 113. Air descending behind a mountain range is defined as...
+
+- a. anabatic wind.
+- b. convergent wind.
+- c. ***katabatic wind.***
+- d. divergent wind.
+
+## 114. Moderate to severe turbulence has to be expected...
+
+- a. below thick cloud layers on the windward side of a mountain range.
+- b. overhead unbroken cloud layers.
+- c. with the appearance of extended low stratus clouds (high fog).
+- d. ***on the lee side of a mountain range when rotor clouds are present.***
+
+## 115. While planning a 500 km triangle flight, there is a squall line 100 km west of the departure airfield, extending from north to south, moving east. Concerning the weather situation, what decision would be recommendable?
+
+- a. To change plans and start the triangle heading east
+- b. To plan the flight below cloud base of the thunderstorms
+- c. During flight, to look for spacing between thunderstorms
+- d. ***To postpone the flight to another day***
+
+## 116. What process causes latent heat being released into the upper troposphere?
+
+- a. Descending air across widespread areas
+- b. Stabilisation of inflowing air masses
+- c. Evaporation over widespread water areas
+- d. ***Cloud forming due to condensation***
+
+## 117. What weather phenomenon designated by "2" has to be expected on the lee side during the illustrated conditions?
+
+See figure (MET-001).
+
+- a. ***Altocumulus lenticularis***
+- b. Nimbostratus
+- c. Cumulonimbus
+- d. Altocumulus Castellanus
+
+## 118. Moderate to severe turbulence has to be expected...
+
+- a. ***on the lee side of a mountain range when rotor clouds are present.***
+- b. below thick cloud layers on the windward side of a mountain range.
+- c. with the appearance of extended low stratus clouds (high fog).
+- d. overhead unbroken cloud layers.
+
+## 119. Ground-based weather radar is used to detect and display:
+
+- a. ***Precipitation***
+- b. Clouds
+- c. Temperatures
+- d. Pressure patterns
+
+## 120. What visual flight conditions can be expected near a cold front?
+
+- a. Moderate to good visibility, clear of clouds
+- b. Good visibility, some isolated high clouds
+- c. ***Moderate visibility, heavy showers, turbulence and thunderstorms***
+- d. Visibility less than 1000 m, cloud-covered ground and continuous precipitation
+
+## 121. What kind of reduction in visibility is not very sensitive to changes in temperature?
+
+- a. Patches of fog (BCFG)
+- b. ***Haze (HZ)***
+- c. Radiation fog (FG)
+- d. Mist (BR)
+
+## 122. What phenomenon is referred to as "blue thermals"?
+
+- a. Turbulence in the vicinity of Cumulonimbus clouds
+- b. Thermals with less than 4/8 Cu coverage
+- c. Descending air between Cumulus clouds
+- d. ***Thermals without formation of Cu clouds***
+
+## 123. What type of turbulence is typically found close to the ground on the lee side during Foehn conditions?
+
+- a. ***Turbulence in rotors***
+- b. Inversion turbulence
+- c. Thermal turbulence
+- d. Clear-air turbulence (CAT)
+
+## 124. The character of an air mass is given by what properties?
+
+- a. Temperatures at origin and present region
+- b. ***Region of origin and track during movement***
+- c. Environmental lapse rate at origin
+- d. Wind speed and tropopause height
+
+## 125. What danger is most imminent when an aircraft is hit by lightning?
+
+- a. Disturbed radio communication, static noise signals
+- b. Rapid cabin depressurization and smoke in the cabin
+- c. ***Surface overheat and damage to exposed aircraft parts***
+- d. Explosion of electrical equipment in the cockpit
+
+## 126. The symbol labeled (1) as shown in the picture is a / an...
+
+See figure (MET-005).
+
+- a. ***cold front.***
+- b. warm front.
+- c. front aloft.
+- d. occlusion.
+
+## 127. The saturated adiabatic lapse rate should be assumed with a mean value of:
+
+- a. 2° C / 1000 ft.
+- b. 0° C / 100 m.
+- c. ***0.6° C / 100 m.***
+- d. 1.0° C / 100 m.
+
+## 128. The barometric altimeter with QFE setting indicates...
+
+- a. height above standard pressure 1013.25 hPa.
+- b. true altitude above MSL.
+- c. ***height above the pressure level at airfield elevation.***
+- d. altitude above MSL.
+
+## 129. When air masses meet each other head on, how is this referred to and what air movements will follow?
+
+- a. Divergence resulting in sinking air
+- b. Divergence resulting in air being lifted
+- c. ***Convergence resulting in air being lifted***
+- d. Convergence resulting in sinking air
+
+## 130. Information about pressure patterns and frontal situation can be found in which chart?
+
+- a. ***Surface weather chart***
+- b. Wind chart
+- c. Hypsometric chart
+- d. Significant Weather Chart (SWC)
+
+## 131. The cloud types shown by HRV (High Resolution Visual) satellite images as "compact, single white spots" can be interpreted as:
+
+- a. Stratus (St)
+- b. ***Convective Clouds (Cu, Cb)***
+- c. Nimbostratus (Ns)
+- d. Cirrus (Ci)
+
+## 132. The operating principle of ground-based weather radar is...
+
+- a. reflection of pulses with defined frequency, length and power by clouds.
+- b. creating images in the infra-red spectrum to show vertical up- and downdrafts.
+- c. creating images in the infra-red spectrum to show areas of high precipitation.
+- d. ***reflection of pulses with defined frequency, length and power by precipitation particles.***
+
+## 133. What cloud type does the picture show?
+
+See figure (MET-002).
+
+- a. ***Cumulus***
+- b. Cirrus
+- c. Altus
+- d. Stratus
+
+## 134. How is an air mass described when moving to Central Europe via the Russian continent during winter?
+
+- a. Continental tropical air
+- b. ***Continental polar air***
+- c. Maritime tropical air
+- d. Maritime polar air
+
+## 135. What information can be obtained from a TAF?
+
+- a. Location of pressure areas and displacement of fronts
+- b. ***Forecast weather at destination with cloud base and visibility***
+- c. Current weather at departure airport
+- d. Forecast weather at destination and runway in use
+
+## 136. What visual flight conditions can be expected within the warm sector of a polar front low during summer time?
+
+- a. Moderate visibility, heavy showers and thunderstorms
+- b. Good visibility, some isolated high clouds
+- c. ***Moderate to good visibility, scattered clouds***
+- d. Visibility less than 1000 m, cloud-covered ground
+
+## 137. An inversion layer close to the ground can be caused by...
+
+- a. ***ground cooling during the night.***
+- b. intensifying and gusting winds.
+- c. large-scale lifting of air.
+- d. thickening of clouds in medium layers.
+
+## 138. What pressure pattern may result from cold-air inflow in high tropospheric layers?
+
+- a. Alternating pressure
+- b. Formation of a high in the upper troposphere
+- c. Formation of a large ground low
+- d. ***Formation of a low in the upper troposphere***
+
+## 139. What cloud type does the picture show?
+
+See figure (MET-003).
+
+- a. Nimbostratus
+- b. ***Altocumulus***
+- c. Cirrus
+- d. Cumulus
+
+## 140. What type of fog emerges if humid and almost saturated air is forced to rise upslope of hills or shallow mountains by the prevailing wind?
+
+- a. Advection fog
+- b. ***Orographic fog***
+- c. Radiation fog
+- d. Steaming fog
+
+## 141. What clouds and weather may result from a humid and instable air mass that is pushed against a chain of mountains by the predominant wind and forced to rise?
+
+- a. Thin Altostratus and Cirrostratus clouds with light and steady precipitation.
+- b. Smooth, unstructured Ns cloud with light drizzle or snow (during winter).
+- c. Overcast low stratus (high fog) with no precipitation.
+- d. ***Embedded CB with thunderstorms and showers of hail and/or rain.***
+
+## 142. How can wind speed and wind direction be derived from surface weather charts?
+
+- a. By alignment and distance of hypsometric lines
+- b. By alignment of lines of warm- and cold fronts.
+- c. ***By alignment and distance of isobaric lines***
+- d. By annotations from the text part of the chart
+
+## 143. Moderate to severe turbulence has to be expected...
+
+- a. with the appearance of extended low stratus clouds (high fog).
+- b. overhead unbroken cloud layers.
+- c. ***on the lee side of a mountain range when rotor clouds are present.***
+- d. below thick cloud layers on the windward side of a mountain range.
+
+## 144. How do we refer to air masses flowing against each other, and what weather development will result from it?
+
+- a. ***Convergence, ascending air and cloud formation***
+- b. Convergence, descending air and cloud dissipation
+- c. Subsidence, ascending air and cloud formation
+- d. Subsidence, descending air and cloud dissipation
+
+## 145. The character of an air mass is given by what properties?
+
+- a. Temperatures at origin and present region
+- b. ***Region of origin and track during movement***
+- c. Environmental lapse rate at origin
+- d. Wind speed and tropopause height
+
+## 146. What cloud type can typically be observed across widespread high pressure areas during summer?
+
+- a. ***Scattered Cu clouds***
+- b. Overcast low stratus
+- c. Squall lines and thunderstorms
+- d. Overcast Ns clouds
+
+## 147. The formation of medium to large precipitation particles requires...
+
+- a. an inversion layer.
+- b. ***strong updrafts.***
+- c. a high cloud base.
+- d. strong wind.
+
+## 148. What visual flight conditions can be expected near a cold front?
+
+- a. Moderate to good visibility, clear of clouds
+- b. ***Moderate visibility, heavy showers, turbulence and thunderstorms***
+- c. Visibility less than 1000 m, cloud-covered ground and continuous precipitation
+- d. Good visibility, some isolated high clouds
+
+## 149. What is the recommended way to deal with isolated thunderstorms on a cross-country flight?
+
+- a. Direct crossing below the cloud base in front of the squall line
+- b. Direct crossing below the cloud base through the rainfall area
+- c. ***Watch out and circumnavigate them at a safe distance***
+- d. Hold at a safe distance and wait for your flight route coming clear
+
+## 150. Which answer contains every state of water found in the atmosphere?
+
+- a. ***Liquid, solid, and gaseous***
+- b. Liquid
+- c. Gaseous and liquid
+- d. Liquid and solid
+
 
 
 ---
